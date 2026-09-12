@@ -1,0 +1,6 @@
+.venv/
+.env
+_pycache_/
+*.pyc
+logs/
+buat_proyek.bat

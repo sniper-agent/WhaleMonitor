@@ -1,0 +1,51 @@
+{
+  "events": [
+    {
+      "chain": "solana",
+      "side": "BUY",
+      "token": "ANSEM",
+      "ca": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "amount": 115.24,
+      "paid": "0.18 SOL",
+      "wallet": "55NQkFDwwW8noThkL9Rd5ngbgUU36fYZeos1k5ZwjGdn",
+      "tx": "tes1",
+      "ts": 1789178414.6044612,
+      "score": 7,
+      "count": 3
+    },
+    {
+      "chain": "solana",
+      "side": "BUY",
+      "token": "ANSEM",
+      "ca": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "amount": 80.1,
+      "paid": "0.12 SOL",
+      "wallet": "3AWDTDGZiW8joyfA52LKL7GUWLoKBCBUBLUE5JoWgBCu",
+      "tx": "tes2",
+      "ts": 1789178414.6513362,
+      "score": 7,
+      "count": 3
+    },
+    {
+      "chain": "solana",
+      "side": "SELL",
+      "token": "ANSEM",
+      "ca": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+      "amount": 20.0,
+      "paid": "0.03 SOL",
+      "wallet": "8zFZHuSRuDpuAR7J6FzwyF3vKNx4CVW3DFHJerQhc7Zd",
+      "tx": "tes3",
+      "ts": 1789178414.6891444,
+      "score": 7,
+      "count": 3
+    }
+  ],
+  "last_alert": {
+    "9crcn9rgt8v2imem2baks13yhmeais3rum3rpvtgpump": {
+      "ts": 1789178414.7360184,
+      "buy": 14,
+      "sell": 7,
+      "signal": "BUY PRESSURE"
+    }
+  }
+}
